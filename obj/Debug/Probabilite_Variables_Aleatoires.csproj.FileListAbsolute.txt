@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\obj\Debug\Probabilite_Variables_Aleatoires.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\obj\Debug\Probabilite_Variables_Aleatoires.Main.resources
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\obj\Debug\Probabilite_Variables_Aleatoires.Properties.Resources.resources
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\obj\Debug\Probabilite_Variables_Aleatoires.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\obj\Debug\Probabilite_Variables_Aleatoires.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\bin\Debug\Probabilite Variables Aleatoires.exe.config
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\bin\Debug\Probabilite Variables Aleatoires.exe
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\bin\Debug\Probabilite Variables Aleatoires.pdb
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\obj\Debug\Probabilite Variables Aleatoires.exe
+C:\Users\hp\Desktop\ABC\C#\Probabilite_Variables_Aleatoires\obj\Debug\Probabilite Variables Aleatoires.pdb
